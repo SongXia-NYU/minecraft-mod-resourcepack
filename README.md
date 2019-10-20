@@ -1,5 +1,5 @@
 # minecraft-mod-resourcepack
-Creating Reasource Pack for cumstom minecraft mod items
+Creating Reasource Pack for costum minecraft mod items
 
 File name must be in lowercase
 
