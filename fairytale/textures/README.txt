@@ -1,1 +1,7 @@
-These are texture files for mod named fairytale
+Creating Reasource Pack for costum minecraft mod items
+
+File name must be in lowercase
+
+"ciri_sword" is OK
+
+while "Ciri Sword" will crash the game
