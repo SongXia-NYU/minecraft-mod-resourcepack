@@ -1,0 +1,13 @@
+## Add swords
+
+Zireael: Ciri's sword, no functionality yet
+
+Iris: Charges every 5 attacks
+
+Aerondight: chance of permenent damage increase after attack, max 50 DMG increase
+
+Gold Stealer: chance of drop gold after every attack
+
+## And Biomes
+
+Fairytale plain; Fairytale frozen ice

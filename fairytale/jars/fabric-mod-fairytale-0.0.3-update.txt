@@ -1,0 +1,5 @@
+## Fairytale Plain Improvement
+
+Fairytale Plain now generate Magic Stone Instead of normal stone.
+
+Added Default Caves; Doungeons;ForestGrass; Flowers; to Fairytale Plain
