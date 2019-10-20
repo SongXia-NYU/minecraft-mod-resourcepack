@@ -1,1 +1,1 @@
-These are files for mod named fairytale
+These are texture files for mod named fairytale
