@@ -1,0 +1,10 @@
+CREATIVE MODE ONLY!! -- We are STILL IN DEVELOPMENT STAGE -- No drops, no crafting reciepes
+
+Added New Items(With no functionality)
+
+Tango	Blink_Dagger Refeasher_Orb
+
+
+Added New Tree Generating Feature to Biome Fairytale:Plain (Testing)
+
+Added Testing Structure Feature to End Biome, Stupid Frame can be seen in the End Dim
