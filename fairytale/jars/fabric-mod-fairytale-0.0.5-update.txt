@@ -1,0 +1,1 @@
+Added crystal block and crystal ore, Crystal Peak is now covered by crystal block
