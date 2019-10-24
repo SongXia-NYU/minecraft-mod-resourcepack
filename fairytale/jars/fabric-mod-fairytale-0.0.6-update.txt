@@ -1,0 +1,5 @@
+Gold Stealer drop chance changed to 0.05
+
+Fixed bug about sword Aerondight
+
+Generated test structure in biome Crystal Peak
