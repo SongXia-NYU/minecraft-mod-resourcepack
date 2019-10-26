@@ -1,0 +1,5 @@
+Added two varients of crystal sharp
+
+Added new Dimension, all biomes now generated in new dimension instead of overworld
+
+Added bgm, use music block to test
