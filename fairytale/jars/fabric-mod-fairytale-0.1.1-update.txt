@@ -1,0 +1,5 @@
+Added Biome Stone Land, added stone structure designed by Pearlescentmoon
+
+Added Biome fairytale ocean with flaoting isalands
+
+Updated teleport block name(to Bonfire) and texture
