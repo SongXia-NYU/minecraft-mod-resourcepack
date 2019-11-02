@@ -1,0 +1,9 @@
+Added new Block: Fungus Block, Blue Mushroom
+
+Added new Biome: Fungus Biome with 6 kinds of Mushroom Feature
+
+Runes now randomly generate in LaputaOceans and other biomes(1/10 of frequency)
+
+Added colored trees feature
+
+Petrified Trees now generated in Stone Land
