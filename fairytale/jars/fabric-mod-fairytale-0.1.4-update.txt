@@ -1,0 +1,9 @@
+Added Archer(300HP, base heal 1 per second) summoned when illusion rune activated
+
+Added Dota Block(w/o functionality yet)
+
+Stoneland is now coverred by quartz
+
+Added Fairytale Forest with colored trees
+
+Added Fairytale Birch Forest with colored trees
