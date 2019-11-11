@@ -1,0 +1,9 @@
+Added Crystal Tree Generated on Crystal Peak
+
+Changed Bonefire Texture
+
+Added Poison Gas
+
+Added magic block
+
+Added Fountain Feature to plain
