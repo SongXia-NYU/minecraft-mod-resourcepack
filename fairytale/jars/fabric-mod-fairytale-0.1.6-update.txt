@@ -1,0 +1,7 @@
+Added the wall
+
+Added new features to crytal peak
+
+Blink dagger, Ciri Sword can be used to blink now
+
+Added Crystal Wolf, Crystal Zombie, White Walker Zombie, Crystal Slime, White Walker Golem
